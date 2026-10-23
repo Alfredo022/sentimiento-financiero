@@ -1,0 +1,12 @@
+{
+  "nombre": "BiLSTM+GloVe+ROS",
+  "tipo": "lstm",
+  "clases": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "maxlen": 32,
+  "f1_macro_prueba": 0.6958565926636859,
+  "accuracy_prueba": 0.7270661157024794
+}
